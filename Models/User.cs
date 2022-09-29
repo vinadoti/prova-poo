@@ -2,7 +2,7 @@ namespace UserProva.Models
 { 
     public class User 
     {
-        // Atributos da classe Game
+        // Atributos da classe User
         private Guid userId;   
         private string name;
         private string email;
